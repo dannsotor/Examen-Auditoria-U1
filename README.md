@@ -5,6 +5,9 @@
 **URL GitHub:** [https://github.com/dannsotor/Examen-Auditoria-U1.git](https://github.com/dannsotor/Examen-Auditoria-U1.git)
 
 ---
+
+Primero levantamos el Servidor : 
+
 <img width="596" height="386" alt="image" src="https://github.com/user-attachments/assets/d65952b6-7965-43b4-92e0-c31ac98bd5ad" />
 Luego npm run deb y nos dará nuestra ip: en este caso seria http://localhost:5176/
 
