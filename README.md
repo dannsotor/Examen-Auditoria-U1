@@ -113,7 +113,8 @@ Estos serían mis **5 hallazgos**:
 ---
 
 ### Activo 5: App Móvil para Clientes
-![Uploading image.png…]()
+<img width="673" height="94" alt="image" src="https://github.com/user-attachments/assets/e54fd542-70e8-4672-be34-c7ac137d493d" />
+
 
 
 - **Condición:** La aplicación móvil no tiene mecanismos robustos de respaldo, exponiendo información de clientes ante incidentes de pérdida o fallo de seguridad.  
